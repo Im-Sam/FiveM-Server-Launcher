@@ -1,0 +1,9 @@
+E:\Projects\ASG-RP Launcher\ASG-RP Launcher\bin\Debug\ASG-RP Launcher.exe.config
+E:\Projects\ASG-RP Launcher\ASG-RP Launcher\bin\Debug\ASG-RP Launcher.exe
+E:\Projects\ASG-RP Launcher\ASG-RP Launcher\bin\Debug\ASG-RP Launcher.pdb
+E:\Projects\ASG-RP Launcher\ASG-RP Launcher\obj\Debug\ASG_RP_Launcher.Form1.resources
+E:\Projects\ASG-RP Launcher\ASG-RP Launcher\obj\Debug\ASG_RP_Launcher.Properties.Resources.resources
+E:\Projects\ASG-RP Launcher\ASG-RP Launcher\obj\Debug\ASG-RP Launcher.csproj.GenerateResource.cache
+E:\Projects\ASG-RP Launcher\ASG-RP Launcher\obj\Debug\ASG-RP Launcher.csproj.CoreCompileInputs.cache
+E:\Projects\ASG-RP Launcher\ASG-RP Launcher\obj\Debug\ASG-RP Launcher.exe
+E:\Projects\ASG-RP Launcher\ASG-RP Launcher\obj\Debug\ASG-RP Launcher.pdb
