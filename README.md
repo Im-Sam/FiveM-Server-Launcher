@@ -1,7 +1,7 @@
 
 # FiveM Server Launcher (FLG-RP)
 
-#Installation instructions.
+# Installation instructions.
 I decided to release the source files to a quick launcher I made for FLG, reason being I couldnt find anything that was freely available for the FiveM community to use, it has functionality to open FiveM, open a website and open CAD/MDT (just another website link button)
 
 The launcher is simple to edit to your needs.
